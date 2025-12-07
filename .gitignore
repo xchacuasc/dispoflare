@@ -1,0 +1,17 @@
+# https://git-scm.com/docs/gitignore
+
+node_modules
+
+/.cache
+/build
+/dist
+/functions/\[\[path\]\].js.map
+/functions/metafile.*.json
+/functions/version.txt
+/.mf
+.env
+
+.dev.vars
+.wrangler/
+
+.react-router/
